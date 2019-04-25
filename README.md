@@ -4,4 +4,4 @@ Uses 1 sec. xvector segments as input features to a BLSTM network with uses enro
 ## Instructions
   1. Create segments with `kaldi/extract_segments.sh`
   2. Sample train and validation trials with `src/make_trials.py' from the above created segments
-  3. Make necessary modifications to `src/train.cfg' and run `src/train.py`
+  3. Make necessary modifications to `src/train.cfg` and run `src/train.py`
